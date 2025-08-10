@@ -11,8 +11,8 @@ A personal finance tracking tool built with Python. This project allows you to l
 - Visualize trends with charts
 
 ## 📁 Project Structure
-─ data_entry.py # Script to input financial data
-─ finance_data.csv # Stores all income/expense records
-─ main.py # Main script to run the application
-─ requirements.txt # Python dependencies
-─ README.md # Project documentation
+- data_entry.py # Script to input financial data
+- finance_data.csv # Stores all income/expense records
+- main.py # Main script to run the application
+- requirements.txt # Python dependencies
+- README.md # Project documentation
